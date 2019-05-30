@@ -1,0 +1,9 @@
+{
+	"err_code": 0,
+	"err_msg": "",
+	"payload": {
+    "name": "mock",
+    "age": 100,
+    "like": "play mock"
+  }
+}

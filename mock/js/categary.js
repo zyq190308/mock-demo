@@ -1,6 +1,6 @@
-const Mock = require('mockjs')
+import Mock from 'mockjs'
 
-module.exports = Mock.mock({
+export default Mock.mock({
   'categorys|1-3': [{
       'id|10': 1,
       "url": "@url",
